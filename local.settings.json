@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountjerse8ca8;AccountKey=yeerBVVfNBUSeyxmfikvdG9V3gbvi8fN9q6y4etado9LiBbA+hDgcWXL1TVGgDreWfwR1PRlk3VV1FbMYVbF5w==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "connectionStringSetting": "AccountEndpoint=https://oilpricedb.documents.azure.com:443/;AccountKey=uPyDxRnFVJoA10NG39dfaTK1qBjsmjGlCa9jwFifVHPVm42S5KyCVAmRb5SAcTV9izjnj8lyemDBNCiOB33ywA==;",
+    "cronScheduleExpressionSetting": "0 55 23 * * *"
+  }
+}
